@@ -1,0 +1,31 @@
+Industrial Vessel Head Calculator Freeware License
+Version 1.0, 22 October 2026
+
+Copyright (c) 2026 YI TENG / 滕毅. All rights reserved.
+
+1. Permission to use
+
+Permission is granted to download, install, and use the compiled software free of charge for personal use and internal professional or business use, subject to the trial and activation terms provided with the software. Reasonable backup copies may be retained by an authorized user.
+
+2. Restrictions
+
+Unless prior written permission is obtained from the copyright holder, you may not sell, sublicense, rent, host, mirror, republish, or redistribute the software; modify the software; remove copyright, authorship, or product notices; or reverse engineer, decompile, or disassemble the software except to the extent that such restriction is prohibited by applicable law.
+
+Please share the official GitHub repository or GitHub Release link instead of redistributing the executable file.
+
+3. Engineering limitation
+
+The software is an engineering aid. It does not replace pressure-vessel design, strength calculations, fabrication drawings, equipment calibration data, applicable standards, equipment certification, or professional engineering review. The user is responsible for checking inputs, assumptions, results, and suitability for the intended application.
+
+4. No warranty
+
+The software is provided "as is", without warranty of any kind, express or implied, including warranties of accuracy, fitness for a particular purpose, merchantability, or non-infringement. To the maximum extent permitted by applicable law, the copyright holder shall not be liable for any claim, loss, damage, production interruption, or other liability arising from the software or its use.
+
+5. Contact
+
+Permission requests and license questions may be sent to:
+
+millbase@hotmail.com
+
+This is a proprietary freeware license and is not an open-source license.
+

@@ -1,0 +1,21 @@
+# Public documentation repository: prevent accidental publication of private build material.
+*.exe
+*.dll
+*.pdb
+*.key
+*.pem
+*.token
+*.dat
+*.zip
+*.00
+
+bin/
+obj/
+artifacts/
+.vs/
+
+LicenseTools/
+OwnerMode/
+Source/
+Verification/
+
