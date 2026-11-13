@@ -84,3 +84,9 @@ See [LICENSE.txt](LICENSE.txt), [PRIVACY.md](PRIVACY.md), and [SECURITY.md](SECU
 Developed and maintained by **YI TENG / 滕毅**.  
 Professional profile: [Yi Teng on LinkedIn](https://www.linkedin.com/in/ty777/).
 
+### About the developer / 关于开发者
+
+Yi Teng works in coatings manufacturing process technology, including high-speed dispersion, bead mill grinding, millbase design, process scale-up, and batch consistency. The focus is on connecting formulation requirements with practical manufacturing conditions.
+
+滕毅从事涂料制造工艺技术工作，涉及高速分散、砂磨、Millbase 设计、工艺放大和批次一致性，重点关注配方要求与实际生产工艺条件之间的衔接。
+
