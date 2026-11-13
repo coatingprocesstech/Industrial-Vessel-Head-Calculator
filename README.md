@@ -81,5 +81,6 @@ This repository distributes the compiled freeware release and its public documen
 
 See [LICENSE.txt](LICENSE.txt), [PRIVACY.md](PRIVACY.md), and [SECURITY.md](SECURITY.md) for additional information.
 
-Developed and maintained by **YI TENG / 滕毅**.
+Developed and maintained by **YI TENG / 滕毅**.  
+Professional profile: [Yi Teng on LinkedIn](https://www.linkedin.com/in/ty777/).
 
